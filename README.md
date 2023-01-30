@@ -38,6 +38,10 @@ Performed an analysis using Supervised Machine Models to predict the count of Bi
                       
                       Adjusted R-Squared
                       
+# Model Summary :
+
+![seoul model image](https://user-images.githubusercontent.com/123950996/215475295-40ff66ad-53c5-43c9-aa8e-9c202ac78130.png)
+         
 # Conclusions:
  
  1.As it was stated in the problem, rented bike count was low in 2017 untill november. After that rented bike count started increasing.
